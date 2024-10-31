@@ -16,5 +16,3 @@ Este projeto foi criado como parte do desafio da DIO para praticar a criação d
 
 ## Links Úteis
 - [Repositório GitHub da amostra](https://github.com/julianazanelatto/power_bi_analyst)
-
-Bons estudos! 😉
